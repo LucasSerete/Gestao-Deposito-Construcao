@@ -1,7 +1,7 @@
-# 📌 Sistema de Gestão em Visual Basic
+# 🏗️ Sistema de Gestão de Depósito de Materiais de Construção
 
-Este projeto foi desenvolvido em **Visual Basic** com o objetivo de criar um sistema simples e funcional para **cadastro e gerenciamento** de usuários, produtos e clientes.  
-Também possui um **sistema de login** para garantir a segurança e controle de acesso.
+Este projeto foi desenvolvido em **VB.NET (Visual Basic .NET)** utilizando o **Visual Studio 2022**.  
+O sistema auxilia no gerenciamento de um depósito de materiais de construção, contemplando funcionalidades de **controle de estoque, cadastro de usuários e clientes, pedidos e caixa**.
 
 ---
 
@@ -9,44 +9,60 @@ Também possui um **sistema de login** para garantir a segurança e controle de 
 
 - 🔐 **Sistema de Login**
   - Autenticação de usuários
-  - Validação de credenciais
-  - Controle de permissões (usuário comum / administrador)
+  - Controle de permissões de acesso
 
-- 👤 **Cadastro de Usuários**
-  - Adicionar novos usuários
-  - Editar informações de usuários existentes
-  - Excluir usuários
+- 👤 **Cadastro e Consulta de Usuários**
+  - Inserir novos usuários
+  - Consultar lista de usuários
+  - Editar informações
+  - Excluir registros
 
-- 📦 **Cadastro de Produtos**
-  - Inserir novos produtos
-  - Atualizar informações de produtos
-  - Remover produtos do sistema
+- 📦 **Cadastro e Consulta de Produtos**
+  - Adicionar novos materiais ao estoque
+  - Consultar lista de produtos
+  - Atualizar informações
+  - Remover produtos
 
-- 🧾 **Cadastro de Clientes**
-  - Registro de novos clientes
-  - Edição de informações cadastrais
-  - Exclusão de clientes
+- 🧾 **Cadastro e Consulta de Clientes**
+  - Registrar novos clientes
+  - Consultar lista de clientes
+  - Editar informações
+  - Excluir clientes
+
+- 🛒 **Pedidos**
+  - Tela para registrar pedidos
+  - Associação de cliente e produtos
+  - Cálculo do valor total do pedido
+
+- 💰 **Caixa**
+  - Tela para gerenciar pedidos
+  - Confirmar pagamento (pago / pendente)
+  - Dar baixa em pedidos concluídos
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Visual Basic .NET (VB.NET)**
-- **Windows Forms**
-- **Banco de Dados (Access ou SQL Server)** – dependendo da configuração
+- **VB.NET (Visual Basic .NET)**  
+- **Visual Studio 2022**  
+- **Windows Forms**  
+- **SQL Server** (banco de dados principal)  
+- **ADO.NET** para conexão e manipulação do banco  
 
 ---
 
 ## 📂 Estrutura do Projeto
 
 ```bash
-📦 MeuProjetoVB
+📦 SistemaDepositoMateriais
  ┣ 📂 Forms
  ┃ ┣ Login.vb
- ┃ ┣ CadastroUsuarios.vb
- ┃ ┣ CadastroProdutos.vb
- ┃ ┗ CadastroClientes.vb
+ ┃ ┣ Usuarios.vb        # Cadastro e consulta de usuários
+ ┃ ┣ Produtos.vb        # Cadastro e consulta de produtos
+ ┃ ┣ Clientes.vb        # Cadastro e consulta de clientes
+ ┃ ┣ Pedidos.vb
+ ┃ ┗ Caixa.vb
  ┣ 📂 Database
- ┃ ┗ database.accdb (ou .mdf caso SQL Server)
+ ┃ ┗ script_banco.sql
  ┣ 📄 README.md
- ┗ 📄 MeuProjetoVB.sln
+ ┗ 📄 SistemaDepositoMateriais.sln
