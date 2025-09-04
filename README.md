@@ -47,22 +47,6 @@ O sistema auxilia no gerenciamento de um depósito de materiais de construção,
 - **Visual Studio 2022**  
 - **Windows Forms**  
 - **SQL Server** (banco de dados principal)  
-- **ADO.NET** para conexão e manipulação do banco  
+- **ADO.NET** para conexão e manipulação do banco
 
----
-
-## 📂 Estrutura do Projeto
-
-```bash
-📦 SistemaDepositoMateriais
- ┣ 📂 Forms
- ┃ ┣ Login.vb
- ┃ ┣ Usuarios.vb        # Cadastro e consulta de usuários
- ┃ ┣ Produtos.vb        # Cadastro e consulta de produtos
- ┃ ┣ Clientes.vb        # Cadastro e consulta de clientes
- ┃ ┣ Pedidos.vb
- ┃ ┗ Caixa.vb
- ┣ 📂 Database
- ┃ ┗ script_banco.sql
- ┣ 📄 README.md
- ┗ 📄 SistemaDepositoMateriais.sln
+  
