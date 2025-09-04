@@ -1,0 +1,167 @@
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\obj\Debug\projeto.vbproj.AssemblyReference.cache
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\obj\Debug\projeto.Form1.resources
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\obj\Debug\projeto.Resources.resources
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\obj\Debug\projeto.vbproj.GenerateResource.cache
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\obj\Debug\projeto.vbproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\bin\Debug\projeto.exe.config
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\bin\Debug\projeto.exe
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\bin\Debug\projeto.pdb
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\bin\Debug\projeto.xml
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\obj\Debug\projeto.exe
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\obj\Debug\projeto.xml
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\obj\Debug\projeto.pdb
+C:\Users\matos\OneDrive\Área de Trabalho\projeto\projeto\obj\Debug\projeto.exe.config
+D:\Estudos\Fatec2024\projeto\projeto\bin\Debug\projeto.exe.config
+D:\Estudos\Fatec2024\projeto\projeto\bin\Debug\projeto.exe
+D:\Estudos\Fatec2024\projeto\projeto\bin\Debug\projeto.pdb
+D:\Estudos\Fatec2024\projeto\projeto\bin\Debug\projeto.xml
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.vbproj.AssemblyReference.cache
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.Resources.resources
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.vbproj.GenerateResource.cache
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.vbproj.CoreCompileInputs.cache
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.exe
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.xml
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.pdb
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.cadastro_usuario.resources
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.cadastrousuario.resources
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.frm_menu.resources
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.frm_pedidos.resources
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.cadastroprodutos.resources
+D:\Estudos\Fatec2024\projeto\projeto\bin\Debug\System.Data.SqlClient.dll
+D:\Estudos\Fatec2024\projeto\projeto\bin\Debug\System.Data.SqlClient.xml
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.vbproj.Up2Date
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.exe.config
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.frm_caixa.resources
+D:\Estudos\Fatec2024\projeto\projeto\obj\Debug\projeto.form_login.resources
+C:\Users\Gabriel\Desktop\projeto\projeto\bin\Debug\projeto.exe.config
+C:\Users\Gabriel\Desktop\projeto\projeto\bin\Debug\projeto.exe
+C:\Users\Gabriel\Desktop\projeto\projeto\bin\Debug\projeto.pdb
+C:\Users\Gabriel\Desktop\projeto\projeto\bin\Debug\projeto.xml
+C:\Users\Gabriel\Desktop\projeto\projeto\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\projeto\projeto\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.exe.config
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.frm_menu.resources
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.cadastro_usuario.resources
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.cadastrousuario.resources
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.frm_pedidos.resources
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.cadastroprodutos.resources
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.form_login.resources
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.frm_caixa.resources
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.Resources.resources
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.vbproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.vbproj.Up2Date
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.exe
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.xml
+C:\Users\Gabriel\Desktop\projeto\projeto\obj\Debug\projeto.pdb
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\bin\Debug\projeto.exe.config
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\bin\Debug\projeto.exe
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\bin\Debug\projeto.pdb
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\bin\Debug\projeto.xml
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\bin\Debug\System.Data.SqlClient.dll
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\bin\Debug\System.Data.SqlClient.xml
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.vbproj.AssemblyReference.cache
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.frm_menu.resources
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.cadastro_usuario.resources
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.cadastrousuario.resources
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.frm_pedidos.resources
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.cadastroprodutos.resources
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.form_login.resources
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.frm_caixa.resources
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.Resources.resources
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.vbproj.GenerateResource.cache
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.vbproj.CoreCompileInputs.cache
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.vbproj.Up2Date
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.exe
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.xml
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.pdb
+D:\Estudos\Fatec2024\projetoatualizado13.06\projeto\projeto\obj\Debug\projeto.exe.config
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\bin\Debug\projeto.exe.config
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\bin\Debug\projeto.exe
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\bin\Debug\projeto.pdb
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\bin\Debug\projeto.xml
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\bin\Debug\System.Data.SqlClient.dll
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.vbproj.AssemblyReference.cache
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.exe.config
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.frm_menu.resources
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.cadastro_usuario.resources
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.cadastrousuario.resources
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.frm_pedidos.resources
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.cadastroprodutos.resources
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.form_login.resources
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.frm_caixa.resources
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.Resources.resources
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.vbproj.GenerateResource.cache
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.vbproj.CoreCompileInputs.cache
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.vbproj.Up2Date
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.exe
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.xml
+C:\Users\lukin\OneDrive\Documentos\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.pdb
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\bin\Debug\projeto.exe.config
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\bin\Debug\projeto.exe
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\bin\Debug\projeto.pdb
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\bin\Debug\projeto.xml
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\bin\Debug\System.Data.SqlClient.dll
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.vbproj.AssemblyReference.cache
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.exe.config
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.frm_menu.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.cadastro_usuario.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.cadastrousuario.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.frm_pedidos.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.cadastroprodutos.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.form_login.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.frm_caixa.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.Resources.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.vbproj.GenerateResource.cache
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.vbproj.CoreCompileInputs.cache
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.vbproj.Up2Date
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.exe
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.xml
+C:\Users\lukin\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.pdb
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\bin\Debug\projeto.exe.config
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\bin\Debug\projeto.exe
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\bin\Debug\projeto.pdb
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\bin\Debug\projeto.xml
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\bin\Debug\System.Data.SqlClient.dll
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\bin\Debug\System.Data.SqlClient.xml
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.vbproj.AssemblyReference.cache
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.exe.config
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.frm_menu.resources
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.cadastro_usuario.resources
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.cadastrousuario.resources
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.frm_pedidos.resources
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.cadastroprodutos.resources
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.form_login.resources
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.frm_caixa.resources
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.Resources.resources
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.vbproj.GenerateResource.cache
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.vbproj.CoreCompileInputs.cache
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.vbproj.Up2Date
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.exe
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.xml
+C:\Users\matos\OneDrive\Área de Trabalho\projetoatualizado24.06\projeto\projeto\obj\Debug\projeto.pdb
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.vbproj.AssemblyReference.cache
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.exe.config
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.exe
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.xml
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.pdb
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\bin\Debug\projeto.exe.config
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\bin\Debug\projeto.exe
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\bin\Debug\projeto.pdb
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\bin\Debug\projeto.xml
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\bin\Debug\System.Data.SqlClient.dll
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.frm_menu.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.cadastro_usuario.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.cadastrousuario.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.frm_pedidos.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.cadastroprodutos.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.form_login.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.frm_caixa.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.Resources.resources
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.vbproj.GenerateResource.cache
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.vbproj.CoreCompileInputs.cache
+C:\Users\lukin\OneDrive\Área de Trabalho\projeto\projeto\projeto\obj\Debug\projeto.vbproj.Up2Date
